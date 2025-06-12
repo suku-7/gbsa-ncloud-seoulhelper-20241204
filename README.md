@@ -78,7 +78,7 @@
 | 정용우 | API 통합, Naver 검색 및 요약 처리, 문서 작성 |
 
 ---
-## .env 파일
+## API .env 파일
 
 ## Google Maps API  
 Maps_API_KEY="YOUR_Maps_API_KEY"  
