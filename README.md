@@ -93,13 +93,14 @@ CLOVA_REQUEST_ID="YOUR_CLOVA_REQUEST_ID"
 NAVER_CLIENT_ID="YOUR_NAVER_CLIENT_ID"
 NAVER_CLIENT_SECRET="YOUR_NAVER_CLIENT_SECRET"
 ---
+![경과원AI_네이버 클라우드_똑똑콩2조_서울생활도우미_20241204_1 0v_page-0001](https://github.com/user-attachments/assets/0d4826f4-5ead-4e6c-a63c-50d2ddaaba3c)
+![경과원AI_네이버 클라우드_똑똑콩2조_서울생활도우미_20241204_1 0v_page-0003](https://github.com/user-attachments/assets/7de39ae2-a8e7-4f28-a28c-918f5a3cda01)
+![경과원AI_네이버 클라우드_똑똑콩2조_서울생활도우미_20241204_1 0v_page-0004](https://github.com/user-attachments/assets/a668401f-4d97-4143-858a-611c9eafe050)
+![경과원AI_네이버 클라우드_똑똑콩2조_서울생활도우미_20241204_1 0v_page-0005](https://github.com/user-attachments/assets/acef1707-9429-4d6c-bf0b-f11f821a11c1)
+![경과원AI_네이버 클라우드_똑똑콩2조_서울생활도우미_20241204_1 0v_page-0006](https://github.com/user-attachments/assets/f968e3b8-b77c-4d0e-9622-50f8698e7e70)
+![경과원AI_네이버 클라우드_똑똑콩2조_서울생활도우미_20241204_1 0v_page-0007](https://github.com/user-attachments/assets/ca553c56-7c44-43cd-8d6d-e95f9f5ec506)
+![경과원AI_네이버 클라우드_똑똑콩2조_서울생활도우미_20241204_1 0v_page-0020](https://github.com/user-attachments/assets/95e01a2f-29cf-44dc-98cf-e78d820bf232)
 
-![경과원AI_네이버 클라우드_똑똑콩2조_서울생활도우미_20241204_1 0v_page-0001](https://github.com/user-attachments/assets/0cee28cf-790e-4d81-9d34-e0154bb8740a)
-![경과원AI_네이버 클라우드_똑똑콩2조_서울생활도우미_20241204_1 0v_page-0002](https://github.com/user-attachments/assets/e82bace7-f06f-4656-b002-995797eb9e10)
-![경과원AI_네이버 클라우드_똑똑콩2조_서울생활도우미_20241204_1 0v_page-0003](https://github.com/user-attachments/assets/7b63dc4b-42d9-437b-83c6-ef2431be8d8f)
-![경과원AI_네이버 클라우드_똑똑콩2조_서울생활도우미_20241204_1 0v_page-0004](https://github.com/user-attachments/assets/53bf6e81-64b6-4d51-988b-e30f952ef819)
-![경과원AI_네이버 클라우드_똑똑콩2조_서울생활도우미_20241204_1 0v_page-0005](https://github.com/user-attachments/assets/fe8422e6-bde5-4e05-b16d-d20fe1636b2b)
-![경과원AI_네이버 클라우드_똑똑콩2조_서울생활도우미_20241204_1 0v_page-0006](https://github.com/user-attachments/assets/5c96d9e8-6b3b-4bd8-9407-56b1dec76e1b)
-![경과원AI_네이버 클라우드_똑똑콩2조_서울생활도우미_20241204_1 0v_page-0007](https://github.com/user-attachments/assets/070f472b-5738-4f9c-9040-ef1f6259d13a)
-![경과원AI_네이버 클라우드_똑똑콩2조_서울생활도우미_20241204_1 0v_page-0020](https://github.com/user-attachments/assets/8b45fd99-2a04-4071-8290-1cfeed44c867)
+
+
 
